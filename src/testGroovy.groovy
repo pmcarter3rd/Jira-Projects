@@ -1,4 +1,4 @@
 def x = 1
 def y = 2
-println(x + y + x)
+println(x + y + x+ x)
 
